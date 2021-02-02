@@ -5,7 +5,7 @@ void bparking();
 void bbparking();
 void main()
 {
-	int a,b;
+	int a,b,c;
 	printf("welcome to the smart parking");
 	printf("\n1.car\n");
 	printf("\n2.bike\n");
